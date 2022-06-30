@@ -1,4 +1,4 @@
-## Problem Set 1
+# Problem Set 1
 
 ## What to Do
 1. Log into <a href="https://code.cs50.io/">code.cs50.io</a> using your GitHub account and follow the on-screen instructions to set up your very own “codespace” for Visual Studio Code
