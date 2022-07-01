@@ -50,3 +50,6 @@ ls
 
 and see a file named mario.c. Executing code mario.c should open the file where you will type your code for this problem set. If not, retrace your steps and see if you can determine where you went wrong!
 
+## World 1-1
+Toward the end of World 1-1 in Nintendo’s Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
+<img src="https://cs50.harvard.edu/x/2022/psets/1/mario/less/pyramid.png"/>
